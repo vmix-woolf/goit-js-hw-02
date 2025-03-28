@@ -1,5 +1,4 @@
 function getShippingCost(country) {
-    const message = '';
     let price;
 
     switch (country) {
